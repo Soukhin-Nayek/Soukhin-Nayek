@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Soukhin-Nayek
-- 👀 I’m interested in 
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning CSE from IIT KGP
 - 💞️ I’m looking to collaborate on Software development
 - 📫 How to reach me Email me on soukhinkgp2@gmail.com
